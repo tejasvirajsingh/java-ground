@@ -53,6 +53,8 @@ public class calculator {
 
         System .out.println("The result is : "+ result);
 
+        // it's used in simple concept only.
+
 
 
     }
