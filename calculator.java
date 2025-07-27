@@ -37,12 +37,12 @@ public class calculator {
 
             }
             else {
-                System.out.println("Error ! Division by zero.");
+                System.out.println("Error ! Division by zero. ");
                 return;
             }
             break;
 
-
+                 //so it's a simple code of making the calculation.
             default: 
             System.out.println("invalid operator!");
             return ;
