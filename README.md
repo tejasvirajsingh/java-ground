@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-21-blue.svg" alt="Java 21"/>
  
-  <img src="https://img.shields.io/badge/My Ground -welcome-brightgreen.svg" alt="PRs Welcome"/>
+  <img src="https://img.shields.io/badge/Your -welcome-brightgreen.svg" alt="PRs Welcome"/>
 </p>
 
 ---
