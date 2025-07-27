@@ -2,18 +2,15 @@
 <h2 align="center">🚀 Java-Ground:  Fun With Java 🧑🏻‍💻  </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-blue.svg" alt="Java 21"/>
+    <img src="https://img.shields.io/badge/Your -welcome-brightgreen.svg" alt="PRs Welcome"/> 
+  <img src="https://img.shields.io/badge/Code-21-blue.svg" alt="Java 21"/>
  
-  <img src="https://img.shields.io/badge/Your -welcome-brightgreen.svg" alt="PRs Welcome"/>
+  
 </p>
 
 ---
 
-## ✨ About The Project
-
-> Java playground for learning concepts, experimenting with code, and mastering algorithms—written in **VS Code**!  
->  
-> Made with ❤️ by Tejasvi Raj Singh.
+## ⚙️ Commitment : Java Basic To Advance 💀.
 
 ---
 
@@ -25,5 +22,13 @@
 
 ---
 
-## 🖥️ Example: Java Basic To Advance 💀.
+
+
+## ✨ About The Project
+
+> Java playground for learning concepts, experimenting with code, and mastering algorithms—written in **VS Code**!  
+>  
+> Made with ❤️ by Tejasvi Raj Singh.
+
+---
 
