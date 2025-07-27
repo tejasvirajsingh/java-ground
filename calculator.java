@@ -11,7 +11,9 @@ public class calculator {
 
         System.out.print("Enter the operator (+,-,*,/): ");
         char operator = scanner.next().charAt(0);
-
+    
+    // make the change of  value and see the result
+    
         System.out.print("Enter the second number: ");
         double num2 = scanner.nextDouble();
 
